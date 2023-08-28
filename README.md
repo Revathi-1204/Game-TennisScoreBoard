@@ -1,4 +1,4 @@
 # Game-TennisScoreBoard
 Group Members:
-  Ankem Revathi
+  \nAnkem Revathi
   Rankireddy Neeraj
